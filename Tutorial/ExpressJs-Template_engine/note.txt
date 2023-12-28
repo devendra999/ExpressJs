@@ -1,0 +1,3 @@
+1. template engine or send html file or html
+
+2. "type": "module", // this is add for using es6 module 

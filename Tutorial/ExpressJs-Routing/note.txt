@@ -1,0 +1,11 @@
+1. npm init
+
+2. npm i express
+
+3. node app.js // for run app
+
+4. npm install -g nodemon // for run app globalyy
+    1. nodemon app // command for globally run
+    2. if its not work run command (Set-ExecutionPolicy Unrestricted).
+
+5. for send html files to use command (npm i express-handlebars). This is npm library
