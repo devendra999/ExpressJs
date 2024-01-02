@@ -1,0 +1,6 @@
+1. npm init
+
+2. npm i express
+
+3. create index.js file
+    1. 
